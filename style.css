@@ -276,3 +276,47 @@ hr{
     display: flex;
     justify-content: space-between;
 }
+.dar{
+    box-shadow: 1px 1px 5px grey;
+    padding: 45px 30px;
+    width: 300px;
+    border-radius: 12px;
+}
+.dar p{
+    color: #6E6E6E;
+    font-size: 18px;
+}
+
+.dar h4{
+    margin-top: 17px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    color: #090909;
+    
+}
+.section7{
+    margin: auto;
+    max-width: 1200px;
+    display: flex;
+    align-items: center;
+    gap: 55px;
+    background-color: #FEF9F2;
+    padding: 90px 10px;
+}
+.testi h2{
+    font-size: 36px;
+    color: #090909;
+    margin-bottom: 21px;
+}
+.gv{
+    color: #6E6E6E;
+    font-size: 17px;
+    
+}
+.testi img{
+    margin-top: 11px;
+    
+}
+.oi{
+    margin-bottom: 45px;
+}
