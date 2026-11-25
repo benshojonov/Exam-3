@@ -230,3 +230,8 @@ color: #6E6E6E;
     font-size: 17px;
     color: #6E6E6E;
 }
+hr{
+    margin: auto;
+    max-width: 1200px;
+    margin-bottom: 140px;
+}
