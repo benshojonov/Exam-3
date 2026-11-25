@@ -142,3 +142,35 @@ span{
 .gg{
     margin-bottom: 15px;
 }
+.section4{
+    margin: auto;
+    max-width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 130px;
+}
+.chor{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.in p{
+font-size: 16px;
+color: #6E6E6E;
+}
+.in h3{
+    font-size: 26px;
+    color: #090909;
+}
+.qut1{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    gap: 30px;
+}
+.qut2{
+    display: flex;
+    margin-bottom: 60px;
+    gap: 30px;
+}
