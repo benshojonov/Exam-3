@@ -30,6 +30,17 @@
     border-radius: 10px;
     padding: 15px;
 }
+.button20{
+    border: none;
+    color: black;
+    background-color: #FF9C08;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+.knop{
+    margin-top: 60px;
+}
 .hr{
     width: 80px;
     height: 4px;
