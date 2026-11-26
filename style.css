@@ -230,7 +230,7 @@ color: #6E6E6E;
     font-size: 17px;
     color: #6E6E6E;
 }
-hr{
+.hr10{
     margin: auto;
     max-width: 1200px;
     margin-bottom: 140px;
@@ -334,9 +334,9 @@ hr{
 }
 .section9{
     margin: auto;
-    max-width: 1200px;
     display: flex;
-    justify-content: space-between;
+    gap: 90px;
+    justify-content:center;
     background-color: #FEF9F2;
     padding: 120px;
     margin-top: 50px;
@@ -383,4 +383,19 @@ hr{
     background-color: white;
     border-radius: 10px;
     padding: 20px 52px;
+}
+.hr1{
+    margin: auto;
+    max-width: 1100px;
+}
+.footer{
+    display: flex;
+    justify-content:center;
+    gap: 200px;
+     background-color: #FEF9F2;
+     padding: 20px;
+}
+.low{
+    display: flex;
+    align-items: center;
 }
